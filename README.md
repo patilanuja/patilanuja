@@ -1,5 +1,12 @@
-### Hi there 👋
-"CS Grad Student | Python Enthusiast 🐍 | Cloud Explorer ☁️ | AI Dreamer 🤖"
+### Hello, fellow coders! 👋
+
+
+ - 🎓 I’m currently pursuing my Master's in Computer Science at Clemson University.
+ - 🌱 Diving into web development with enthusiasm.
+ - ☁️ Exploring Cloud Computing: Delving into the intricacies of Cloud Computing, with a focus on AWS ☁️, to harness its power for innovative solutions.
+ - 🤖 Exploring the realms of generative AI with enthusiasm.
+
+
 
 <!--
 **patilanuja/patilanuja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
