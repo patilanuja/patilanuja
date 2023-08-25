@@ -1,4 +1,5 @@
 ### Hi there 👋
+"CS Grad Student | Python Enthusiast 🐍 | Cloud Explorer ☁️ | AI Dreamer 🤖"
 
 <!--
 **patilanuja/patilanuja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
