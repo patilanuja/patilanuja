@@ -1,6 +1,5 @@
 ### Hello, fellow coders! 👋
 
-
   - 🎓 I am currently pursuing my Master's in Computer Science at Clemson University.
   - 🌱 I am diving into web development with enthusiasm.
   - ☁️ I am exploring Cloud Computing, delving into the intricacies of AWS, to harness its power for innovative solutions.
