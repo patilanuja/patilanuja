@@ -3,7 +3,7 @@
   - 🎓 I am currently pursuing my Master's in Computer Science at Clemson University.
   - 🌱 I am diving into web development with enthusiasm.
   - ☁️ I am exploring Cloud Computing, delving into the intricacies of AWS, to harness its power for innovative solutions.
-  - 🤖 I am exploring the realms of generative AI with enthusiasm.
+  - 🤖 I am also exploring the realms of generative AI with enthusiasm.
 
 
 
