@@ -1,7 +1,11 @@
 ### Hello, there! 👋
 #### Hi, I am Anuja Patil, a software developer pursuing my Master's at Clemson. On my GitHub, you will find projects and contributions showcasing my skills in web development, cloud computing, and generative AI. I love learning new technologies and collaborating with other developers. Feel free to look around.
 
+<!--
 ![Anuja's GitHub stats](https://github-readme-stats.vercel.app/api?username=patilanuja&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patilanuja&hide_progress=true)
+-->
+
 
 
 
