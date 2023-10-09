@@ -5,6 +5,8 @@
   - ☁️ I am exploring Cloud Computing, delving into the intricacies of AWS, to harness its power for innovative solutions.
   - 🤖 I am also exploring the realms of generative AI with enthusiasm.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 
 <!--
