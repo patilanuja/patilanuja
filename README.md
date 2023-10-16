@@ -6,6 +6,8 @@ I am Anuja Patil, a software developer pursuing my Master's at Clemson. On my Gi
 
 
 
+
+
 <!-- connect with me -->
 <h5 align="left">Connect with me:</h5>
 <p align="left">
