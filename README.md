@@ -12,7 +12,6 @@ I am Anuja Patil, a software developer pursuing my Master's at Clemson. On my Gi
 </p>
 
 
-
 <!-- 
 ## 📈 Github Stats
 
