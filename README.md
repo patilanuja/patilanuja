@@ -4,6 +4,7 @@
 
 I am Anuja Patil, a software developer pursuing my Master's at Clemson. On my GitHub, you will find projects and contributions showcasing my skills in web development, cloud computing, and generative AI. I love learning new technologies and collaborating with other developers. Feel free to look around.
 
+
 <!-- connect with me -->
 <h5 align="left">Connect with me:</h5>
 <p align="left">
