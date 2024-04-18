@@ -17,8 +17,10 @@ I am Anuja Patil, a software developer pursuing my Master's at Clemson. On my Gi
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=patilanuja&show_icons=true&locale=en&layout=compact&theme=dracula&hide_progress=true" alt="Gift's language" height="192px"  width="500px"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patilanuja&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=patilanuja&label=Profile%20views&color=0e75b6&style=flat" alt="patilanuja" />
 </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patilanuja&show_icons=true&locale=en" alt="patilanuja" /></p>
 
 -->
 
