@@ -6,11 +6,13 @@ I am Anuja Patil, a software developer pursuing my Master's at Clemson. On my Gi
 
 
 <!-- connect with me -->
-<h5 align="left">Connect with me:</h5>
-<p align="left">
-<a href="https://www.linkedin.com/in/-anuja-patil/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="anuja" height="40" width="40"/></a>
-</p>
+[<img align="left" alt="Anuja | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Anuja | Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
+[<img align="left" alt="Anuja | LeetCode" src="https://img.shields.io/badge/LeetCode-FCCF03?&style=for-the-badge&logo=leetcode&logoColor=white" />][LeetCode]
 
+[linkedin]: https://www.linkedin.com/in/-anuja-patil/
+[gmail]: mailto:patilanuja98@gmail.com
+[LeetCode]: https://leetcode.com/u/anuja_98_patil/
 
 <!-- 
 ## 📈 Github Stats
