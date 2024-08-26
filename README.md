@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&duration=2000&pause=1000&color=3200F7&center=true&vCenter=true&width=464&lines=Hi+%F0%9F%91%8B%2C+ there !" alt="loading.." /></a>
 </p>
 
-I am Anuja Patil, a software engineer pursuing my Master's at Clemson. On my GitHub, you will find projects and contributions showcasing my skills in web development, cloud computing, and generative AI. I love learning new technologies and collaborating with other developers. Feel free to look around.
+I am Anuja Patil, a software engineer with a Master's in Computer Science. On my GitHub, you will find projects and contributions showcasing my skills in web development, cloud computing, and generative AI. I love learning new technologies and collaborating with other developers. Feel free to look around.
 
 
 <!-- connect with me -->
